@@ -9,7 +9,6 @@ import LoadingSpinner from "./components/LoadingSpinner";
 import SkeletonGrid from "./components/SkeletonCard";
 import ErrorMessage from "./components/ErrorMessage";
 import EmptyState from "./components/EmptyState";
-import ContactForm from "./components/ContactForm";
 
 const API_URL = "https://fakestoreapi.com/products";
 
@@ -103,7 +102,6 @@ const App = () => {
         <div className="h-px bg-gradient-to-r from-transparent via-indigo-500/30 to-transparent" />
       </div>
 
-      <ContactForm />
 
       <footer className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 text-center">
         <p className="text-xs text-slate-500">
