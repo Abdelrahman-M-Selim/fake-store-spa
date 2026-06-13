@@ -4,7 +4,8 @@ A polished, production-grade Single Page Application built with **React 18 + Vit
 
 ## Live Demo
 
-> Deploy on Vercel, Netlify, or GitHub Pages
+> Deploy on Vercel : https://fake-store-spa-nine.vercel.app/
+
 
 ## Tech Stack
 
